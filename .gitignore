@@ -1,3 +1,8 @@
 # ignore All .ipynb_checkpoints
 
 .ipynb_checkpoints/
+
+# ignore All .log,.6.cache
+*.log
+*.6
+*.cache
