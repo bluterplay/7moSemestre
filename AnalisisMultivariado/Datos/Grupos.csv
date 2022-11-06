@@ -1,610 +1,610 @@
-﻿Individuo,Orden de preferencia,Clave,Nombre de la Materia,
-1,5,2030,Análisis de datos ,
-12,5,2030,Análisis de datos ,
-13,4,2030,Análisis de datos ,
-25,1,2030,Análisis de datos ,
-32,3,2030,Análisis de datos ,
-35,4,2030,Análisis de datos ,
-48,1,2030,Análisis de datos ,
-53,3,2030,Análisis de datos ,
-56,1,2030,Análisis de datos ,
-59,2,2030,Análisis de datos ,
-68,1,2030,Análisis de datos ,
-90,1,2030,Análisis de datos ,
-91,2,2030,Análisis de datos ,
-105,1,2030,Análisis de datos ,
-1,4,2031, Análisis Multivariado,
-12,4,2031, Análisis Multivariado,
-13,2,2031, Análisis Multivariado,
-14,3,2031, Análisis Multivariado,
-15,2,2031, Análisis Multivariado,
-17,3,2031, Análisis Multivariado,
-19,1,2031, Análisis Multivariado,
-20,1,2031, Análisis Multivariado,
-22,3,2031, Análisis Multivariado,
-31,5,2031, Análisis Multivariado,
-35,2,2031, Análisis Multivariado,
-38,2,2031, Análisis Multivariado,
-43,5,2031, Análisis Multivariado,
-52,3,2031, Análisis Multivariado,
-57,2,2031, Análisis Multivariado,
-59,1,2031, Análisis Multivariado,
-72,3,2031, Análisis Multivariado,
-79,4,2031, Análisis Multivariado,
-80,3,2031, Análisis Multivariado,
-81,5,2031, Análisis Multivariado,
-82,5,2031, Análisis Multivariado,
-84,2,2031, Análisis Multivariado,
-89,2,2031, Análisis Multivariado,
-90,5,2031, Análisis Multivariado,
-91,3,2031, Análisis Multivariado,
-93,3,2031, Análisis Multivariado,
-95,3,2031, Análisis Multivariado,
-98,2,2031, Análisis Multivariado,
-100,2,2031, Análisis Multivariado,
-106,3,2031, Análisis Multivariado,
-109,2,2031, Análisis Multivariado,
-117,4,2031, Análisis Multivariado,
-120,4,2031, Análisis Multivariado,
-121,2,2031, Análisis Multivariado,
-123,4,2031, Análisis Multivariado,
-124,1,2031, Análisis Multivariado,
-16,3,2032,Análisis de Regresión,
-24,3,2032,Análisis de Regresión,
-29,3,2032,Análisis de Regresión,
-34,5,2032,Análisis de Regresión,
-36,3,2032,Análisis de Regresión,
-39,4,2032,Análisis de Regresión,
-45,5,2032,Análisis de Regresión,
-48,5,2032,Análisis de Regresión,
-49,1,2032,Análisis de Regresión,
-51,4,2032,Análisis de Regresión,
-56,4,2032,Análisis de Regresión,
-57,3,2032,Análisis de Regresión,
-59,3,2032,Análisis de Regresión,
-62,5,2032,Análisis de Regresión,
-64,5,2032,Análisis de Regresión,
-65,5,2032,Análisis de Regresión,
-66,5,2032,Análisis de Regresión,
-67,1,2032,Análisis de Regresión,
-68,4,2032,Análisis de Regresión,
-69,2,2032,Análisis de Regresión,
-70,5,2032,Análisis de Regresión,
-71,4,2032,Análisis de Regresión,
-72,4,2032,Análisis de Regresión,
-73,4,2032,Análisis de Regresión,
-74,2,2032,Análisis de Regresión,
-75,4,2032,Análisis de Regresión,
-77,4,2032,Análisis de Regresión,
-78,3,2032,Análisis de Regresión,
-79,5,2032,Análisis de Regresión,
-80,5,2032,Análisis de Regresión,
-81,2,2032,Análisis de Regresión,
-82,3,2032,Análisis de Regresión,
-83,5,2032,Análisis de Regresión,
-84,4,2032,Análisis de Regresión,
-85,2,2032,Análisis de Regresión,
-87,4,2032,Análisis de Regresión,
-89,1,2032,Análisis de Regresión,
-90,4,2032,Análisis de Regresión,
-91,5,2032,Análisis de Regresión,
-92,5,2032,Análisis de Regresión,
-94,2,2032,Análisis de Regresión,
-96,2,2032,Análisis de Regresión,
-97,4,2032,Análisis de Regresión,
-98,5,2032,Análisis de Regresión,
-100,5,2032,Análisis de Regresión,
-101,3,2032,Análisis de Regresión,
-102,3,2032,Análisis de Regresión,
-103,3,2032,Análisis de Regresión,
-104,4,2032,Análisis de Regresión,
-106,4,2032,Análisis de Regresión,
-108,3,2032,Análisis de Regresión,
-109,5,2032,Análisis de Regresión,
-111,4,2032,Análisis de Regresión,
-112,4,2032,Análisis de Regresión,
-113,4,2032,Análisis de Regresión,
-114,1,2032,Análisis de Regresión,
-115,5,2032,Análisis de Regresión,
-118,2,2032,Análisis de Regresión,
-119,4,2032,Análisis de Regresión,
-120,5,2032,Análisis de Regresión,
-121,4,2032,Análisis de Regresión,
-123,3,2032,Análisis de Regresión,
-124,3,2032,Análisis de Regresión,
-4,3,2033,Derivados,
-5,3,2033,Derivados,
-6,5,2033,Derivados,
-7,5,2033,Derivados,
-8,4,2033,Derivados,
-10,5,2033,Derivados,
-11,1,2033,Derivados,
-12,3,2033,Derivados,
-13,1,2033,Derivados,
-14,5,2033,Derivados,
-15,4,2033,Derivados,
-16,1,2033,Derivados,
-17,5,2033,Derivados,
-18,5,2033,Derivados,
-19,5,2033,Derivados,
-20,5,2033,Derivados,
-25,3,2033,Derivados,
-26,5,2033,Derivados,
-31,4,2033,Derivados,
-33,3,2033,Derivados,
-35,1,2033,Derivados,
-36,1,2033,Derivados,
-37,3,2033,Derivados,
-38,5,2033,Derivados,
-40,4,2033,Derivados,
-41,1,2033,Derivados,
-43,1,2033,Derivados,
-46,4,2033,Derivados,
-49,2,2033,Derivados,
-50,2,2033,Derivados,
-53,5,2033,Derivados,
-54,5,2033,Derivados,
-55,4,2033,Derivados,
-58,1,2033,Derivados,
-60,3,2033,Derivados,
-61,3,2033,Derivados,
-62,2,2033,Derivados,
-63,3,2033,Derivados,
-65,2,2033,Derivados,
-78,5,2033,Derivados,
-79,1,2033,Derivados,
-88,5,2033,Derivados,
-92,2,2033,Derivados,
-93,1,2033,Derivados,
-94,3,2033,Derivados,
-95,5,2033,Derivados,
-102,5,2033,Derivados,
-103,5,2033,Derivados,
-105,5,2033,Derivados,
-108,5,2033,Derivados,
-118,3,2033,Derivados,
-119,3,2033,Derivados,
-120,2,2033,Derivados,
-123,5,2033,Derivados,
-3,5,2034, Economía Matemática II,
-34,2,2034, Economía Matemática II,
-43,2,2034, Economía Matemática II,
-50,1,2034, Economía Matemática II,
-66,1,2034, Economía Matemática II,
-67,3,2034, Economía Matemática II,
-80,2,2034, Economía Matemática II,
-83,1,2034, Economía Matemática II,
-110,5,2034, Economía Matemática II,
-117,2,2034, Economía Matemática II,
-121,3,2034, Economía Matemática II,
-2,5,2035,Finanzas Publicas ,
-4,5,2035,Finanzas Publicas ,
-10,2,2035,Finanzas Publicas ,
-18,1,2035,Finanzas Publicas ,
-37,2,2035,Finanzas Publicas ,
-46,2,2035,Finanzas Publicas ,
-50,4,2035,Finanzas Publicas ,
-76,1,2035,Finanzas Publicas ,
-88,1,2035,Finanzas Publicas ,
-96,1,2035,Finanzas Publicas ,
-2,3,2036,Finanzas,
-61,2,2036,Finanzas,
-78,1,2036,Finanzas,
-88,2,2036,Finanzas,
-99,4,2036,Finanzas,
-107,2,2036,Finanzas,
-24,1,2037, Investigación de Operaciones II,
-25,5,2037, Investigación de Operaciones II,
-28,5,2037, Investigación de Operaciones II,
-29,2,2037, Investigación de Operaciones II,
-33,5,2037, Investigación de Operaciones II,
-34,1,2037, Investigación de Operaciones II,
-36,2,2037, Investigación de Operaciones II,
-40,1,2037, Investigación de Operaciones II,
-45,3,2037, Investigación de Operaciones II,
-47,1,2037, Investigación de Operaciones II,
-55,5,2037, Investigación de Operaciones II,
-60,5,2037, Investigación de Operaciones II,
-61,5,2037, Investigación de Operaciones II,
-69,3,2037, Investigación de Operaciones II,
-71,5,2037, Investigación de Operaciones II,
-72,5,2037, Investigación de Operaciones II,
-74,3,2037, Investigación de Operaciones II,
-75,3,2037, Investigación de Operaciones II,
-77,5,2037, Investigación de Operaciones II,
-80,1,2037, Investigación de Operaciones II,
-81,1,2037, Investigación de Operaciones II,
-82,2,2037, Investigación de Operaciones II,
-84,3,2037, Investigación de Operaciones II,
-85,1,2037, Investigación de Operaciones II,
-91,1,2037, Investigación de Operaciones II,
-96,3,2037, Investigación de Operaciones II,
-105,4,2037, Investigación de Operaciones II,
-107,1,2037, Investigación de Operaciones II,
-111,3,2037, Investigación de Operaciones II,
-113,5,2037, Investigación de Operaciones II,
-115,1,2037, Investigación de Operaciones II,
-46,1,2038,Legislacion de Seguros,
-76,3,2038,Legislacion de Seguros,
-3,4,2039,Modelos y Simulación,
-5,5,2039,Modelos y Simulación,
-11,3,2039,Modelos y Simulación,
-14,1,2039,Modelos y Simulación,
-15,3,2039,Modelos y Simulación,
-16,2,2039,Modelos y Simulación,
-17,4,2039,Modelos y Simulación,
-22,1,2039,Modelos y Simulación,
-24,4,2039,Modelos y Simulación,
-26,4,2039,Modelos y Simulación,
-27,5,2039,Modelos y Simulación,
-28,4,2039,Modelos y Simulación,
-29,4,2039,Modelos y Simulación,
-30,3,2039,Modelos y Simulación,
-32,2,2039,Modelos y Simulación,
-37,5,2039,Modelos y Simulación,
-39,3,2039,Modelos y Simulación,
-41,5,2039,Modelos y Simulación,
-42,3,2039,Modelos y Simulación,
-43,4,2039,Modelos y Simulación,
-44,3,2039,Modelos y Simulación,
-47,5,2039,Modelos y Simulación,
-48,4,2039,Modelos y Simulación,
-49,4,2039,Modelos y Simulación,
-51,5,2039,Modelos y Simulación,
-52,2,2039,Modelos y Simulación,
-53,2,2039,Modelos y Simulación,
-54,3,2039,Modelos y Simulación,
-55,1,2039,Modelos y Simulación,
-56,2,2039,Modelos y Simulación,
-57,4,2039,Modelos y Simulación,
-58,2,2039,Modelos y Simulación,
-61,4,2039,Modelos y Simulación,
-62,4,2039,Modelos y Simulación,
-64,4,2039,Modelos y Simulación,
-65,4,2039,Modelos y Simulación,
-66,3,2039,Modelos y Simulación,
-67,2,2039,Modelos y Simulación,
-68,5,2039,Modelos y Simulación,
-69,1,2039,Modelos y Simulación,
-70,4,2039,Modelos y Simulación,
-71,3,2039,Modelos y Simulación,
-72,2,2039,Modelos y Simulación,
-73,5,2039,Modelos y Simulación,
-74,1,2039,Modelos y Simulación,
-75,5,2039,Modelos y Simulación,
-77,3,2039,Modelos y Simulación,
-78,2,2039,Modelos y Simulación,
-79,3,2039,Modelos y Simulación,
-80,4,2039,Modelos y Simulación,
-81,3,2039,Modelos y Simulación,
-82,4,2039,Modelos y Simulación,
-83,4,2039,Modelos y Simulación,
-84,1,2039,Modelos y Simulación,
-85,4,2039,Modelos y Simulación,
-87,5,2039,Modelos y Simulación,
-88,4,2039,Modelos y Simulación,
-89,3,2039,Modelos y Simulación,
-90,2,2039,Modelos y Simulación,
-91,4,2039,Modelos y Simulación,
-92,4,2039,Modelos y Simulación,
-93,5,2039,Modelos y Simulación,
-94,1,2039,Modelos y Simulación,
-95,2,2039,Modelos y Simulación,
-97,5,2039,Modelos y Simulación,
-98,3,2039,Modelos y Simulación,
-99,3,2039,Modelos y Simulación,
-100,4,2039,Modelos y Simulación,
-102,4,2039,Modelos y Simulación,
-103,4,2039,Modelos y Simulación,
-104,5,2039,Modelos y Simulación,
-106,1,2039,Modelos y Simulación,
-108,4,2039,Modelos y Simulación,
-109,4,2039,Modelos y Simulación,
-112,5,2039,Modelos y Simulación,
-113,3,2039,Modelos y Simulación,
-114,5,2039,Modelos y Simulación,
-115,4,2039,Modelos y Simulación,
-118,4,2039,Modelos y Simulación,
-119,1,2039,Modelos y Simulación,
-120,3,2039,Modelos y Simulación,
-121,5,2039,Modelos y Simulación,
-122,2,2039,Modelos y Simulación,
-124,5,2039,Modelos y Simulación,
-2,2,2040,Matemáticas actuariales aplicadas,
-39,2,2040,Matemáticas actuariales aplicadas,
-42,4,2040,Matemáticas actuariales aplicadas,
-44,4,2040,Matemáticas actuariales aplicadas,
-47,3,2040,Matemáticas actuariales aplicadas,
-73,1,2040,Matemáticas actuariales aplicadas,
-83,3,2040,Matemáticas actuariales aplicadas,
-95,1,2040,Matemáticas actuariales aplicadas,
-105,2,2040,Matemáticas actuariales aplicadas,
-122,1,2040,Matemáticas actuariales aplicadas,
-8,3,2041,Muestreo,
-13,5,2041,Muestreo,
-16,4,2041,Muestreo,
-19,2,2041,Muestreo,
-20,2,2041,Muestreo,
-24,2,2041,Muestreo,
-30,1,2041,Muestreo,
-34,3,2041,Muestreo,
-35,5,2041,Muestreo,
-36,4,2041,Muestreo,
-38,3,2041,Muestreo,
-39,1,2041,Muestreo,
-41,3,2041,Muestreo,
-47,4,2041,Muestreo,
-48,2,2041,Muestreo,
-51,1,2041,Muestreo,
-54,1,2041,Muestreo,
-56,5,2041,Muestreo,
-57,1,2041,Muestreo,
-58,5,2041,Muestreo,
-59,4,2041,Muestreo,
-66,2,2041,Muestreo,
-69,4,2041,Muestreo,
-70,2,2041,Muestreo,
-71,2,2041,Muestreo,
-74,4,2041,Muestreo,
-75,1,2041,Muestreo,
-82,1,2041,Muestreo,
-84,5,2041,Muestreo,
-85,5,2041,Muestreo,
-87,1,2041,Muestreo,
-90,3,2041,Muestreo,
-94,5,2041,Muestreo,
-98,1,2041,Muestreo,
-100,1,2041,Muestreo,
-104,1,2041,Muestreo,
-109,1,2041,Muestreo,
-110,4,2041,Muestreo,
-111,5,2041,Muestreo,
-117,1,2041,Muestreo,
-122,3,2041,Muestreo,
-45,4,2042,Modelos microeconómicos,
-4,4,2043,Planeación Financiera,
-5,2,2043,Planeación Financiera,
-6,3,2043,Planeación Financiera,
-7,4,2043,Planeación Financiera,
-9,5,2043,Planeación Financiera,
-11,2,2043,Planeación Financiera,
-32,4,2043,Planeación Financiera,
-33,1,2043,Planeación Financiera,
-37,4,2043,Planeación Financiera,
-40,2,2043,Planeación Financiera,
-42,1,2043,Planeación Financiera,
-44,1,2043,Planeación Financiera,
-53,4,2043,Planeación Financiera,
-63,5,2043,Planeación Financiera,
-99,2,2043,Planeación Financiera,
-101,4,2043,Planeación Financiera,
-107,5,2043,Planeación Financiera,
-114,3,2043,Planeación Financiera,
-116,4,2043,Planeación Financiera,
-3,1,2044,Análisis de Estados Financieros,
-5,4,2044,Análisis de Estados Financieros,
-8,2,2044,Análisis de Estados Financieros,
-9,4,2044,Análisis de Estados Financieros,
-10,1,2044,Análisis de Estados Financieros,
-11,5,2044,Análisis de Estados Financieros,
-18,3,2044,Análisis de Estados Financieros,
-27,2,2044,Análisis de Estados Financieros,
-28,3,2044,Análisis de Estados Financieros,
-41,4,2044,Análisis de Estados Financieros,
-60,2,2044,Análisis de Estados Financieros,
-62,3,2044,Análisis de Estados Financieros,
-63,4,2044,Análisis de Estados Financieros,
-65,3,2044,Análisis de Estados Financieros,
-76,2,2044,Análisis de Estados Financieros,
-110,2,2044,Análisis de Estados Financieros,
-112,3,2044,Análisis de Estados Financieros,
-115,3,2045, Análisis econometrico,
-1,2,2046,Auditoría Actuarial,
-2,1,2046,Auditoría Actuarial,
-5,1,2046,Auditoría Actuarial,
-6,2,2046,Auditoría Actuarial,
-7,2,2046,Auditoría Actuarial,
-8,1,2046,Auditoría Actuarial,
-10,3,2046,Auditoría Actuarial,
-14,4,2046,Auditoría Actuarial,
-15,5,2046,Auditoría Actuarial,
-18,2,2046,Auditoría Actuarial,
-21,5,2046,Auditoría Actuarial,
-22,2,2046,Auditoría Actuarial,
-23,5,2046,Auditoría Actuarial,
-27,4,2046,Auditoría Actuarial,
-28,2,2046,Auditoría Actuarial,
-31,2,2046,Auditoría Actuarial,
-32,5,2046,Auditoría Actuarial,
-38,1,2046,Auditoría Actuarial,
-40,5,2046,Auditoría Actuarial,
-41,2,2046,Auditoría Actuarial,
-42,2,2046,Auditoría Actuarial,
-43,3,2046,Auditoría Actuarial,
-44,2,2046,Auditoría Actuarial,
-46,5,2046,Auditoría Actuarial,
-50,5,2046,Auditoría Actuarial,
-63,1,2046,Auditoría Actuarial,
-64,3,2046,Auditoría Actuarial,
-73,2,2046,Auditoría Actuarial,
-76,5,2046,Auditoría Actuarial,
-78,4,2046,Auditoría Actuarial,
-79,2,2046,Auditoría Actuarial,
-97,1,2046,Auditoría Actuarial,
-99,5,2046,Auditoría Actuarial,
-112,2,2046,Auditoría Actuarial,
-114,2,2046,Auditoría Actuarial,
-117,3,2046,Auditoría Actuarial,
-122,4,2046,Auditoría Actuarial,
-1,1,2047,Contabilidad de Seguros,
-21,4,2047,Contabilidad de Seguros,
-23,4,2047,Contabilidad de Seguros,
-28,1,2047,Contabilidad de Seguros,
-116,1,2047,Contabilidad de Seguros,
-6,4,2048,Estadística Bayesiana,
-13,3,2048,Estadística Bayesiana,
-16,5,2048,Estadística Bayesiana,
-22,5,2048,Estadística Bayesiana,
-24,5,2048,Estadística Bayesiana,
-26,1,2048,Estadística Bayesiana,
-29,5,2048,Estadística Bayesiana,
-30,5,2048,Estadística Bayesiana,
-34,4,2048,Estadística Bayesiana,
-35,3,2048,Estadística Bayesiana,
-36,5,2048,Estadística Bayesiana,
-39,5,2048,Estadística Bayesiana,
-47,2,2048,Estadística Bayesiana,
-48,3,2048,Estadística Bayesiana,
-49,5,2048,Estadística Bayesiana,
-51,3,2048,Estadística Bayesiana,
-52,5,2048,Estadística Bayesiana,
-54,2,2048,Estadística Bayesiana,
-56,3,2048,Estadística Bayesiana,
-57,5,2048,Estadística Bayesiana,
-58,3,2048,Estadística Bayesiana,
-59,5,2048,Estadística Bayesiana,
-64,2,2048,Estadística Bayesiana,
-66,4,2048,Estadística Bayesiana,
-73,3,2048,Estadística Bayesiana,
-93,4,2048,Estadística Bayesiana,
-106,5,2048,Estadística Bayesiana,
-110,3,2048,Estadística Bayesiana,
-111,1,2048,Estadística Bayesiana,
-113,1,2048,Estadística Bayesiana,
-119,5,2048,Estadística Bayesiana,
-121,1,2048,Estadística Bayesiana,
-122,5,2048,Estadística Bayesiana,
-123,2,2048,Estadística Bayesiana,
-124,4,2048,Estadística Bayesiana,
-1,3,2049,Evaluación de proyectos,
-3,2,2049,Evaluación de proyectos,
-4,2,2049,Evaluación de proyectos,
-6,1,2049,Evaluación de proyectos,
-7,1,2049,Evaluación de proyectos,
-8,5,2049,Evaluación de proyectos,
-9,3,2049,Evaluación de proyectos,
-12,2,2049,Evaluación de proyectos,
-15,1,2049,Evaluación de proyectos,
-17,1,2049,Evaluación de proyectos,
-19,4,2049,Evaluación de proyectos,
-20,4,2049,Evaluación de proyectos,
-25,4,2049,Evaluación de proyectos,
-26,3,2049,Evaluación de proyectos,
-27,1,2049,Evaluación de proyectos,
-29,1,2049,Evaluación de proyectos,
-30,4,2049,Evaluación de proyectos,
-31,3,2049,Evaluación de proyectos,
-38,4,2049,Evaluación de proyectos,
-40,3,2049,Evaluación de proyectos,
-42,5,2049,Evaluación de proyectos,
-44,5,2049,Evaluación de proyectos,
-46,3,2049,Evaluación de proyectos,
-54,4,2049,Evaluación de proyectos,
-55,3,2049,Evaluación de proyectos,
-58,4,2049,Evaluación de proyectos,
-60,4,2049,Evaluación de proyectos,
-61,1,2049,Evaluación de proyectos,
-69,5,2049,Evaluación de proyectos,
-74,5,2049,Evaluación de proyectos,
-75,2,2049,Evaluación de proyectos,
-77,1,2049,Evaluación de proyectos,
-81,4,2049,Evaluación de proyectos,
-85,3,2049,Evaluación de proyectos,
-87,2,2049,Evaluación de proyectos,
-89,5,2049,Evaluación de proyectos,
-92,1,2049,Evaluación de proyectos,
-95,4,2049,Evaluación de proyectos,
-96,5,2049,Evaluación de proyectos,
-97,2,2049,Evaluación de proyectos,
-101,5,2049,Evaluación de proyectos,
-103,2,2049,Evaluación de proyectos,
-104,3,2049,Evaluación de proyectos,
-107,4,2049,Evaluación de proyectos,
-108,2,2049,Evaluación de proyectos,
-110,1,2049,Evaluación de proyectos,
-111,2,2049,Evaluación de proyectos,
-114,4,2049,Evaluación de proyectos,
-115,2,2049,Evaluación de proyectos,
-116,5,2049,Evaluación de proyectos,
-118,1,2049,Evaluación de proyectos,
-120,1,2049,Evaluación de proyectos,
-123,1,2049,Evaluación de proyectos,
-14,2,2050, Evaluación de Proyectos,
-117,5,2050, Evaluación de Proyectos,
-3,3,2051,Finanzas Internacionales ,
-9,1,2051,Finanzas Internacionales ,
-10,4,2051,Finanzas Internacionales ,
-11,4,2051,Finanzas Internacionales ,
-12,1,2051,Finanzas Internacionales ,
-18,4,2051,Finanzas Internacionales ,
-25,2,2051,Finanzas Internacionales ,
-27,3,2051,Finanzas Internacionales ,
-31,1,2051,Finanzas Internacionales ,
-50,3,2051,Finanzas Internacionales ,
-60,1,2051,Finanzas Internacionales ,
-62,1,2051,Finanzas Internacionales ,
-63,2,2051,Finanzas Internacionales ,
-65,1,2051,Finanzas Internacionales ,
-77,2,2051,Finanzas Internacionales ,
-96,4,2051,Finanzas Internacionales ,
-101,2,2051,Finanzas Internacionales ,
-112,1,2051,Finanzas Internacionales ,
-116,3,2051,Finanzas Internacionales ,
-118,5,2051,Finanzas Internacionales ,
-22,4,2053,   Procesos Estocásticos II,
-52,1,2053,   Procesos Estocásticos II,
-64,1,2053,   Procesos Estocásticos II,
-4,1,2054,Presupuesto de capital,
-9,2,2054,Presupuesto de capital,
-19,3,2054,Presupuesto de capital,
-20,3,2054,Presupuesto de capital,
-33,4,2054,Presupuesto de capital,
-71,1,2054,Presupuesto de capital,
-89,4,2054,Presupuesto de capital,
-99,1,2054,Presupuesto de capital,
-101,1,2054,Presupuesto de capital,
-107,3,2054,Presupuesto de capital,
-7,3,2055,Series de Tiempo,
-17,2,2055,Series de Tiempo,
-26,2,2055,Series de Tiempo,
-30,2,2055,Series de Tiempo,
-33,2,2055,Series de Tiempo,
-49,3,2055,Series de Tiempo,
-51,2,2055,Series de Tiempo,
-52,4,2055,Series de Tiempo,
-55,2,2055,Series de Tiempo,
-72,1,2055,Series de Tiempo,
-83,2,2055,Series de Tiempo,
-88,3,2055,Series de Tiempo,
-93,2,2055,Series de Tiempo,
-94,4,2055,Series de Tiempo,
-97,3,2055,Series de Tiempo,
-98,4,2055,Series de Tiempo,
-100,3,2055,Series de Tiempo,
-102,1,2055,Series de Tiempo,
-103,1,2055,Series de Tiempo,
-104,2,2055,Series de Tiempo,
-106,2,2055,Series de Tiempo,
-108,1,2055,Series de Tiempo,
-109,3,2055,Series de Tiempo,
-113,2,2055,Series de Tiempo,
-119,2,2055,Series de Tiempo,
-124,2,2055,Series de Tiempo,
-2,4,2056,    Seguro de personas,
-76,4,2056,    Seguro de personas,
-116,2,2056,    Seguro de personas,
-67,5,2511,Investigación de Operaciones II,
-68,3,2511,Investigación de Operaciones II,
-70,3,2511,Investigación de Operaciones II,
-87,3,2511,Investigación de Operaciones II,
-105,3,2612, Muestreo,
-67,4,2613,Economía Matemática II,
-68,2,2613,Economía Matemática II,
-70,1,2613,Economía Matemática II,
-92,3,2613,Economía Matemática II,
-86,3,2032,Análisis de Regresión,
-86,5,2037, Investigación de Operaciones II,
-86,2,2039,Modelos y Simulación,
-86,4,2041,Muestreo,
-86,1,2049,Evaluación de proyectos,
-102,2,,4.-Econometria,
+﻿Individuo,Orden de preferencia,Clave,Nombre de la Materia
+1,5,2030,Análisis de datos 
+12,5,2030,Análisis de datos 
+13,4,2030,Análisis de datos 
+25,1,2030,Análisis de datos 
+32,3,2030,Análisis de datos 
+35,4,2030,Análisis de datos 
+48,1,2030,Análisis de datos 
+53,3,2030,Análisis de datos 
+56,1,2030,Análisis de datos 
+59,2,2030,Análisis de datos 
+68,1,2030,Análisis de datos 
+90,1,2030,Análisis de datos 
+91,2,2030,Análisis de datos 
+105,1,2030,Análisis de datos 
+1,4,2031,Análisis Multivariado
+12,4,2031,Análisis Multivariado
+13,2,2031,Análisis Multivariado
+14,3,2031,Análisis Multivariado
+15,2,2031,Análisis Multivariado
+17,3,2031,Análisis Multivariado
+19,1,2031,Análisis Multivariado
+20,1,2031,Análisis Multivariado
+22,3,2031,Análisis Multivariado
+31,5,2031,Análisis Multivariado
+35,2,2031,Análisis Multivariado
+38,2,2031,Análisis Multivariado
+43,5,2031,Análisis Multivariado
+52,3,2031,Análisis Multivariado
+57,2,2031,Análisis Multivariado
+59,1,2031,Análisis Multivariado
+72,3,2031,Análisis Multivariado
+79,4,2031,Análisis Multivariado
+80,3,2031,Análisis Multivariado
+81,5,2031,Análisis Multivariado
+82,5,2031,Análisis Multivariado
+84,2,2031,Análisis Multivariado
+89,2,2031,Análisis Multivariado
+90,5,2031,Análisis Multivariado
+91,3,2031,Análisis Multivariado
+93,3,2031,Análisis Multivariado
+95,3,2031,Análisis Multivariado
+98,2,2031,Análisis Multivariado
+100,2,2031,Análisis Multivariado
+106,3,2031,Análisis Multivariado
+109,2,2031,Análisis Multivariado
+117,4,2031,Análisis Multivariado
+120,4,2031,Análisis Multivariado
+121,2,2031,Análisis Multivariado
+123,4,2031,Análisis Multivariado
+124,1,2031,Análisis Multivariado
+16,3,2032,Análisis de Regresión
+24,3,2032,Análisis de Regresión
+29,3,2032,Análisis de Regresión
+34,5,2032,Análisis de Regresión
+36,3,2032,Análisis de Regresión
+39,4,2032,Análisis de Regresión
+45,5,2032,Análisis de Regresión
+48,5,2032,Análisis de Regresión
+49,1,2032,Análisis de Regresión
+51,4,2032,Análisis de Regresión
+56,4,2032,Análisis de Regresión
+57,3,2032,Análisis de Regresión
+59,3,2032,Análisis de Regresión
+62,5,2032,Análisis de Regresión
+64,5,2032,Análisis de Regresión
+65,5,2032,Análisis de Regresión
+66,5,2032,Análisis de Regresión
+67,1,2032,Análisis de Regresión
+68,4,2032,Análisis de Regresión
+69,2,2032,Análisis de Regresión
+70,5,2032,Análisis de Regresión
+71,4,2032,Análisis de Regresión
+72,4,2032,Análisis de Regresión
+73,4,2032,Análisis de Regresión
+74,2,2032,Análisis de Regresión
+75,4,2032,Análisis de Regresión
+77,4,2032,Análisis de Regresión
+78,3,2032,Análisis de Regresión
+79,5,2032,Análisis de Regresión
+80,5,2032,Análisis de Regresión
+81,2,2032,Análisis de Regresión
+82,3,2032,Análisis de Regresión
+83,5,2032,Análisis de Regresión
+84,4,2032,Análisis de Regresión
+85,2,2032,Análisis de Regresión
+87,4,2032,Análisis de Regresión
+89,1,2032,Análisis de Regresión
+90,4,2032,Análisis de Regresión
+91,5,2032,Análisis de Regresión
+92,5,2032,Análisis de Regresión
+94,2,2032,Análisis de Regresión
+96,2,2032,Análisis de Regresión
+97,4,2032,Análisis de Regresión
+98,5,2032,Análisis de Regresión
+100,5,2032,Análisis de Regresión
+101,3,2032,Análisis de Regresión
+102,3,2032,Análisis de Regresión
+103,3,2032,Análisis de Regresión
+104,4,2032,Análisis de Regresión
+106,4,2032,Análisis de Regresión
+108,3,2032,Análisis de Regresión
+109,5,2032,Análisis de Regresión
+111,4,2032,Análisis de Regresión
+112,4,2032,Análisis de Regresión
+113,4,2032,Análisis de Regresión
+114,1,2032,Análisis de Regresión
+115,5,2032,Análisis de Regresión
+118,2,2032,Análisis de Regresión
+119,4,2032,Análisis de Regresión
+120,5,2032,Análisis de Regresión
+121,4,2032,Análisis de Regresión
+123,3,2032,Análisis de Regresión
+124,3,2032,Análisis de Regresión
+4,3,2033,Derivados
+5,3,2033,Derivados
+6,5,2033,Derivados
+7,5,2033,Derivados
+8,4,2033,Derivados
+10,5,2033,Derivados
+11,1,2033,Derivados
+12,3,2033,Derivados
+13,1,2033,Derivados
+14,5,2033,Derivados
+15,4,2033,Derivados
+16,1,2033,Derivados
+17,5,2033,Derivados
+18,5,2033,Derivados
+19,5,2033,Derivados
+20,5,2033,Derivados
+25,3,2033,Derivados
+26,5,2033,Derivados
+31,4,2033,Derivados
+33,3,2033,Derivados
+35,1,2033,Derivados
+36,1,2033,Derivados
+37,3,2033,Derivados
+38,5,2033,Derivados
+40,4,2033,Derivados
+41,1,2033,Derivados
+43,1,2033,Derivados
+46,4,2033,Derivados
+49,2,2033,Derivados
+50,2,2033,Derivados
+53,5,2033,Derivados
+54,5,2033,Derivados
+55,4,2033,Derivados
+58,1,2033,Derivados
+60,3,2033,Derivados
+61,3,2033,Derivados
+62,2,2033,Derivados
+63,3,2033,Derivados
+65,2,2033,Derivados
+78,5,2033,Derivados
+79,1,2033,Derivados
+88,5,2033,Derivados
+92,2,2033,Derivados
+93,1,2033,Derivados
+94,3,2033,Derivados
+95,5,2033,Derivados
+102,5,2033,Derivados
+103,5,2033,Derivados
+105,5,2033,Derivados
+108,5,2033,Derivados
+118,3,2033,Derivados
+119,3,2033,Derivados
+120,2,2033,Derivados
+123,5,2033,Derivados
+3,5,2034,Economía Matemática II
+34,2,2034,Economía Matemática II
+43,2,2034,Economía Matemática II
+50,1,2034,Economía Matemática II
+66,1,2034,Economía Matemática II
+67,3,2034,Economía Matemática II
+80,2,2034,Economía Matemática II
+83,1,2034,Economía Matemática II
+110,5,2034,Economía Matemática II
+117,2,2034,Economía Matemática II
+121,3,2034,Economía Matemática II
+2,5,2035,Finanzas Publicas 
+4,5,2035,Finanzas Publicas 
+10,2,2035,Finanzas Publicas 
+18,1,2035,Finanzas Publicas 
+37,2,2035,Finanzas Publicas 
+46,2,2035,Finanzas Publicas 
+50,4,2035,Finanzas Publicas 
+76,1,2035,Finanzas Publicas 
+88,1,2035,Finanzas Publicas 
+96,1,2035,Finanzas Publicas 
+2,3,2036,Finanzas
+61,2,2036,Finanzas
+78,1,2036,Finanzas
+88,2,2036,Finanzas
+99,4,2036,Finanzas
+107,2,2036,Finanzas
+24,1,2037,Investigación de Operaciones II
+25,5,2037,Investigación de Operaciones II
+28,5,2037,Investigación de Operaciones II
+29,2,2037,Investigación de Operaciones II
+33,5,2037,Investigación de Operaciones II
+34,1,2037,Investigación de Operaciones II
+36,2,2037,Investigación de Operaciones II
+40,1,2037,Investigación de Operaciones II
+45,3,2037,Investigación de Operaciones II
+47,1,2037,Investigación de Operaciones II
+55,5,2037,Investigación de Operaciones II
+60,5,2037,Investigación de Operaciones II
+61,5,2037,Investigación de Operaciones II
+69,3,2037,Investigación de Operaciones II
+71,5,2037,Investigación de Operaciones II
+72,5,2037,Investigación de Operaciones II
+74,3,2037,Investigación de Operaciones II
+75,3,2037,Investigación de Operaciones II
+77,5,2037,Investigación de Operaciones II
+80,1,2037,Investigación de Operaciones II
+81,1,2037,Investigación de Operaciones II
+82,2,2037,Investigación de Operaciones II
+84,3,2037,Investigación de Operaciones II
+85,1,2037,Investigación de Operaciones II
+91,1,2037,Investigación de Operaciones II
+96,3,2037,Investigación de Operaciones II
+105,4,2037,Investigación de Operaciones II
+107,1,2037,Investigación de Operaciones II
+111,3,2037,Investigación de Operaciones II
+113,5,2037,Investigación de Operaciones II
+115,1,2037,Investigación de Operaciones II
+46,1,2038,Legislacion de Seguros
+76,3,2038,Legislacion de Seguros
+3,4,2039,Modelos y Simulación
+5,5,2039,Modelos y Simulación
+11,3,2039,Modelos y Simulación
+14,1,2039,Modelos y Simulación
+15,3,2039,Modelos y Simulación
+16,2,2039,Modelos y Simulación
+17,4,2039,Modelos y Simulación
+22,1,2039,Modelos y Simulación
+24,4,2039,Modelos y Simulación
+26,4,2039,Modelos y Simulación
+27,5,2039,Modelos y Simulación
+28,4,2039,Modelos y Simulación
+29,4,2039,Modelos y Simulación
+30,3,2039,Modelos y Simulación
+32,2,2039,Modelos y Simulación
+37,5,2039,Modelos y Simulación
+39,3,2039,Modelos y Simulación
+41,5,2039,Modelos y Simulación
+42,3,2039,Modelos y Simulación
+43,4,2039,Modelos y Simulación
+44,3,2039,Modelos y Simulación
+47,5,2039,Modelos y Simulación
+48,4,2039,Modelos y Simulación
+49,4,2039,Modelos y Simulación
+51,5,2039,Modelos y Simulación
+52,2,2039,Modelos y Simulación
+53,2,2039,Modelos y Simulación
+54,3,2039,Modelos y Simulación
+55,1,2039,Modelos y Simulación
+56,2,2039,Modelos y Simulación
+57,4,2039,Modelos y Simulación
+58,2,2039,Modelos y Simulación
+61,4,2039,Modelos y Simulación
+62,4,2039,Modelos y Simulación
+64,4,2039,Modelos y Simulación
+65,4,2039,Modelos y Simulación
+66,3,2039,Modelos y Simulación
+67,2,2039,Modelos y Simulación
+68,5,2039,Modelos y Simulación
+69,1,2039,Modelos y Simulación
+70,4,2039,Modelos y Simulación
+71,3,2039,Modelos y Simulación
+72,2,2039,Modelos y Simulación
+73,5,2039,Modelos y Simulación
+74,1,2039,Modelos y Simulación
+75,5,2039,Modelos y Simulación
+77,3,2039,Modelos y Simulación
+78,2,2039,Modelos y Simulación
+79,3,2039,Modelos y Simulación
+80,4,2039,Modelos y Simulación
+81,3,2039,Modelos y Simulación
+82,4,2039,Modelos y Simulación
+83,4,2039,Modelos y Simulación
+84,1,2039,Modelos y Simulación
+85,4,2039,Modelos y Simulación
+87,5,2039,Modelos y Simulación
+88,4,2039,Modelos y Simulación
+89,3,2039,Modelos y Simulación
+90,2,2039,Modelos y Simulación
+91,4,2039,Modelos y Simulación
+92,4,2039,Modelos y Simulación
+93,5,2039,Modelos y Simulación
+94,1,2039,Modelos y Simulación
+95,2,2039,Modelos y Simulación
+97,5,2039,Modelos y Simulación
+98,3,2039,Modelos y Simulación
+99,3,2039,Modelos y Simulación
+100,4,2039,Modelos y Simulación
+102,4,2039,Modelos y Simulación
+103,4,2039,Modelos y Simulación
+104,5,2039,Modelos y Simulación
+106,1,2039,Modelos y Simulación
+108,4,2039,Modelos y Simulación
+109,4,2039,Modelos y Simulación
+112,5,2039,Modelos y Simulación
+113,3,2039,Modelos y Simulación
+114,5,2039,Modelos y Simulación
+115,4,2039,Modelos y Simulación
+118,4,2039,Modelos y Simulación
+119,1,2039,Modelos y Simulación
+120,3,2039,Modelos y Simulación
+121,5,2039,Modelos y Simulación
+122,2,2039,Modelos y Simulación
+124,5,2039,Modelos y Simulación
+2,2,2040,Matemáticas actuariales aplicadas
+39,2,2040,Matemáticas actuariales aplicadas
+42,4,2040,Matemáticas actuariales aplicadas
+44,4,2040,Matemáticas actuariales aplicadas
+47,3,2040,Matemáticas actuariales aplicadas
+73,1,2040,Matemáticas actuariales aplicadas
+83,3,2040,Matemáticas actuariales aplicadas
+95,1,2040,Matemáticas actuariales aplicadas
+105,2,2040,Matemáticas actuariales aplicadas
+122,1,2040,Matemáticas actuariales aplicadas
+8,3,2041,Muestreo
+13,5,2041,Muestreo
+16,4,2041,Muestreo
+19,2,2041,Muestreo
+20,2,2041,Muestreo
+24,2,2041,Muestreo
+30,1,2041,Muestreo
+34,3,2041,Muestreo
+35,5,2041,Muestreo
+36,4,2041,Muestreo
+38,3,2041,Muestreo
+39,1,2041,Muestreo
+41,3,2041,Muestreo
+47,4,2041,Muestreo
+48,2,2041,Muestreo
+51,1,2041,Muestreo
+54,1,2041,Muestreo
+56,5,2041,Muestreo
+57,1,2041,Muestreo
+58,5,2041,Muestreo
+59,4,2041,Muestreo
+66,2,2041,Muestreo
+69,4,2041,Muestreo
+70,2,2041,Muestreo
+71,2,2041,Muestreo
+74,4,2041,Muestreo
+75,1,2041,Muestreo
+82,1,2041,Muestreo
+84,5,2041,Muestreo
+85,5,2041,Muestreo
+87,1,2041,Muestreo
+90,3,2041,Muestreo
+94,5,2041,Muestreo
+98,1,2041,Muestreo
+100,1,2041,Muestreo
+104,1,2041,Muestreo
+109,1,2041,Muestreo
+110,4,2041,Muestreo
+111,5,2041,Muestreo
+117,1,2041,Muestreo
+122,3,2041,Muestreo
+45,4,2042,Modelos microeconómicos
+4,4,2043,Planeación Financiera
+5,2,2043,Planeación Financiera
+6,3,2043,Planeación Financiera
+7,4,2043,Planeación Financiera
+9,5,2043,Planeación Financiera
+11,2,2043,Planeación Financiera
+32,4,2043,Planeación Financiera
+33,1,2043,Planeación Financiera
+37,4,2043,Planeación Financiera
+40,2,2043,Planeación Financiera
+42,1,2043,Planeación Financiera
+44,1,2043,Planeación Financiera
+53,4,2043,Planeación Financiera
+63,5,2043,Planeación Financiera
+99,2,2043,Planeación Financiera
+101,4,2043,Planeación Financiera
+107,5,2043,Planeación Financiera
+114,3,2043,Planeación Financiera
+116,4,2043,Planeación Financiera
+3,1,2044,Análisis de Estados Financieros
+5,4,2044,Análisis de Estados Financieros
+8,2,2044,Análisis de Estados Financieros
+9,4,2044,Análisis de Estados Financieros
+10,1,2044,Análisis de Estados Financieros
+11,5,2044,Análisis de Estados Financieros
+18,3,2044,Análisis de Estados Financieros
+27,2,2044,Análisis de Estados Financieros
+28,3,2044,Análisis de Estados Financieros
+41,4,2044,Análisis de Estados Financieros
+60,2,2044,Análisis de Estados Financieros
+62,3,2044,Análisis de Estados Financieros
+63,4,2044,Análisis de Estados Financieros
+65,3,2044,Análisis de Estados Financieros
+76,2,2044,Análisis de Estados Financieros
+110,2,2044,Análisis de Estados Financieros
+112,3,2044,Análisis de Estados Financieros
+115,3,2045,Análisis econometrico
+1,2,2046,Auditoría Actuarial
+2,1,2046,Auditoría Actuarial
+5,1,2046,Auditoría Actuarial
+6,2,2046,Auditoría Actuarial
+7,2,2046,Auditoría Actuarial
+8,1,2046,Auditoría Actuarial
+10,3,2046,Auditoría Actuarial
+14,4,2046,Auditoría Actuarial
+15,5,2046,Auditoría Actuarial
+18,2,2046,Auditoría Actuarial
+21,5,2046,Auditoría Actuarial
+22,2,2046,Auditoría Actuarial
+23,5,2046,Auditoría Actuarial
+27,4,2046,Auditoría Actuarial
+28,2,2046,Auditoría Actuarial
+31,2,2046,Auditoría Actuarial
+32,5,2046,Auditoría Actuarial
+38,1,2046,Auditoría Actuarial
+40,5,2046,Auditoría Actuarial
+41,2,2046,Auditoría Actuarial
+42,2,2046,Auditoría Actuarial
+43,3,2046,Auditoría Actuarial
+44,2,2046,Auditoría Actuarial
+46,5,2046,Auditoría Actuarial
+50,5,2046,Auditoría Actuarial
+63,1,2046,Auditoría Actuarial
+64,3,2046,Auditoría Actuarial
+73,2,2046,Auditoría Actuarial
+76,5,2046,Auditoría Actuarial
+78,4,2046,Auditoría Actuarial
+79,2,2046,Auditoría Actuarial
+97,1,2046,Auditoría Actuarial
+99,5,2046,Auditoría Actuarial
+112,2,2046,Auditoría Actuarial
+114,2,2046,Auditoría Actuarial
+117,3,2046,Auditoría Actuarial
+122,4,2046,Auditoría Actuarial
+1,1,2047,Contabilidad de Seguros
+21,4,2047,Contabilidad de Seguros
+23,4,2047,Contabilidad de Seguros
+28,1,2047,Contabilidad de Seguros
+116,1,2047,Contabilidad de Seguros
+6,4,2048,Estadística Bayesiana
+13,3,2048,Estadística Bayesiana
+16,5,2048,Estadística Bayesiana
+22,5,2048,Estadística Bayesiana
+24,5,2048,Estadística Bayesiana
+26,1,2048,Estadística Bayesiana
+29,5,2048,Estadística Bayesiana
+30,5,2048,Estadística Bayesiana
+34,4,2048,Estadística Bayesiana
+35,3,2048,Estadística Bayesiana
+36,5,2048,Estadística Bayesiana
+39,5,2048,Estadística Bayesiana
+47,2,2048,Estadística Bayesiana
+48,3,2048,Estadística Bayesiana
+49,5,2048,Estadística Bayesiana
+51,3,2048,Estadística Bayesiana
+52,5,2048,Estadística Bayesiana
+54,2,2048,Estadística Bayesiana
+56,3,2048,Estadística Bayesiana
+57,5,2048,Estadística Bayesiana
+58,3,2048,Estadística Bayesiana
+59,5,2048,Estadística Bayesiana
+64,2,2048,Estadística Bayesiana
+66,4,2048,Estadística Bayesiana
+73,3,2048,Estadística Bayesiana
+93,4,2048,Estadística Bayesiana
+106,5,2048,Estadística Bayesiana
+110,3,2048,Estadística Bayesiana
+111,1,2048,Estadística Bayesiana
+113,1,2048,Estadística Bayesiana
+119,5,2048,Estadística Bayesiana
+121,1,2048,Estadística Bayesiana
+122,5,2048,Estadística Bayesiana
+123,2,2048,Estadística Bayesiana
+124,4,2048,Estadística Bayesiana
+1,3,2049,Evaluación de proyectos
+3,2,2049,Evaluación de proyectos
+4,2,2049,Evaluación de proyectos
+6,1,2049,Evaluación de proyectos
+7,1,2049,Evaluación de proyectos
+8,5,2049,Evaluación de proyectos
+9,3,2049,Evaluación de proyectos
+12,2,2049,Evaluación de proyectos
+15,1,2049,Evaluación de proyectos
+17,1,2049,Evaluación de proyectos
+19,4,2049,Evaluación de proyectos
+20,4,2049,Evaluación de proyectos
+25,4,2049,Evaluación de proyectos
+26,3,2049,Evaluación de proyectos
+27,1,2049,Evaluación de proyectos
+29,1,2049,Evaluación de proyectos
+30,4,2049,Evaluación de proyectos
+31,3,2049,Evaluación de proyectos
+38,4,2049,Evaluación de proyectos
+40,3,2049,Evaluación de proyectos
+42,5,2049,Evaluación de proyectos
+44,5,2049,Evaluación de proyectos
+46,3,2049,Evaluación de proyectos
+54,4,2049,Evaluación de proyectos
+55,3,2049,Evaluación de proyectos
+58,4,2049,Evaluación de proyectos
+60,4,2049,Evaluación de proyectos
+61,1,2049,Evaluación de proyectos
+69,5,2049,Evaluación de proyectos
+74,5,2049,Evaluación de proyectos
+75,2,2049,Evaluación de proyectos
+77,1,2049,Evaluación de proyectos
+81,4,2049,Evaluación de proyectos
+85,3,2049,Evaluación de proyectos
+87,2,2049,Evaluación de proyectos
+89,5,2049,Evaluación de proyectos
+92,1,2049,Evaluación de proyectos
+95,4,2049,Evaluación de proyectos
+96,5,2049,Evaluación de proyectos
+97,2,2049,Evaluación de proyectos
+101,5,2049,Evaluación de proyectos
+103,2,2049,Evaluación de proyectos
+104,3,2049,Evaluación de proyectos
+107,4,2049,Evaluación de proyectos
+108,2,2049,Evaluación de proyectos
+110,1,2049,Evaluación de proyectos
+111,2,2049,Evaluación de proyectos
+114,4,2049,Evaluación de proyectos
+115,2,2049,Evaluación de proyectos
+116,5,2049,Evaluación de proyectos
+118,1,2049,Evaluación de proyectos
+120,1,2049,Evaluación de proyectos
+123,1,2049,Evaluación de proyectos
+14,2,2050,Evaluación de proyectos
+117,5,2050,Evaluación de proyectos
+3,3,2051,Finanzas Internacionales 
+9,1,2051,Finanzas Internacionales 
+10,4,2051,Finanzas Internacionales 
+11,4,2051,Finanzas Internacionales 
+12,1,2051,Finanzas Internacionales 
+18,4,2051,Finanzas Internacionales 
+25,2,2051,Finanzas Internacionales 
+27,3,2051,Finanzas Internacionales 
+31,1,2051,Finanzas Internacionales 
+50,3,2051,Finanzas Internacionales 
+60,1,2051,Finanzas Internacionales 
+62,1,2051,Finanzas Internacionales 
+63,2,2051,Finanzas Internacionales 
+65,1,2051,Finanzas Internacionales 
+77,2,2051,Finanzas Internacionales 
+96,4,2051,Finanzas Internacionales 
+101,2,2051,Finanzas Internacionales 
+112,1,2051,Finanzas Internacionales 
+116,3,2051,Finanzas Internacionales 
+118,5,2051,Finanzas Internacionales 
+22,4,2053,Procesos Estocásticos II
+52,1,2053,Procesos Estocásticos II
+64,1,2053,Procesos Estocásticos II
+4,1,2054,Presupuesto de capital
+9,2,2054,Presupuesto de capital
+19,3,2054,Presupuesto de capital
+20,3,2054,Presupuesto de capital
+33,4,2054,Presupuesto de capital
+71,1,2054,Presupuesto de capital
+89,4,2054,Presupuesto de capital
+99,1,2054,Presupuesto de capital
+101,1,2054,Presupuesto de capital
+107,3,2054,Presupuesto de capital
+7,3,2055,Series de Tiempo
+17,2,2055,Series de Tiempo
+26,2,2055,Series de Tiempo
+30,2,2055,Series de Tiempo
+33,2,2055,Series de Tiempo
+49,3,2055,Series de Tiempo
+51,2,2055,Series de Tiempo
+52,4,2055,Series de Tiempo
+55,2,2055,Series de Tiempo
+72,1,2055,Series de Tiempo
+83,2,2055,Series de Tiempo
+88,3,2055,Series de Tiempo
+93,2,2055,Series de Tiempo
+94,4,2055,Series de Tiempo
+97,3,2055,Series de Tiempo
+98,4,2055,Series de Tiempo
+100,3,2055,Series de Tiempo
+102,1,2055,Series de Tiempo
+103,1,2055,Series de Tiempo
+104,2,2055,Series de Tiempo
+106,2,2055,Series de Tiempo
+108,1,2055,Series de Tiempo
+109,3,2055,Series de Tiempo
+113,2,2055,Series de Tiempo
+119,2,2055,Series de Tiempo
+124,2,2055,Series de Tiempo
+2,4,2056,Seguro de personas
+76,4,2056,Seguro de personas
+116,2,2056,Seguro de personas
+67,5,2511,Investigación de Operaciones II
+68,3,2511,Investigación de Operaciones II
+70,3,2511,Investigación de Operaciones II
+87,3,2511,Investigación de Operaciones II
+105,3,2612,Muestreo
+67,4,2613,Economía Matemática II
+68,2,2613,Economía Matemática II
+70,1,2613,Economía Matemática II
+92,3,2613,Economía Matemática II
+86,3,2032,Análisis de Regresión
+86,5,2037,Investigación de Operaciones II
+86,2,2039,Modelos y Simulación
+86,4,2041,Muestreo
+86,1,2049,Evaluación de proyectos
+102,2,,Econometria
