@@ -1,0 +1,1189 @@
+{
+    "items": {
+        "totalitems": "20",
+        "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
+        "pubdate": "Sat, 05 Nov 2022 00:17:24 +0000",
+        "item": [
+            {
+                "objecttype": "thing",
+                "objectid": "173346",
+                "subtype": "boardgame",
+                "collid": "92479814",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "7 Wonders Duel"
+                },
+                "yearpublished": {
+                    "TEXT": "2015"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/7BL8N4-Qqo0RrAVEfBhfrQ__original/img/XAjr-hwbH3U16ydN3bpjadfXK1A=/0x0/filters:format(jpeg)/pic7149683.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/7BL8N4-Qqo0RrAVEfBhfrQ__thumb/img/NyEfOiEeV0MeNwaCOOb1uefWQtU=/fit-in/200x150/filters:strip_icc()/pic7149683.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "2",
+                    "minplaytime": "30",
+                    "maxplaytime": "30",
+                    "playingtime": "30",
+                    "numowned": "126214",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "78205"
+                        },
+                        "average": {
+                            "value": "8.10044"
+                        },
+                        "bayesaverage": {
+                            "value": "7.97737"
+                        },
+                        "stddev": {
+                            "value": "1.18581"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-25 09:39:21"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "170216",
+                "subtype": "boardgame",
+                "collid": "92323557",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Blood Rage"
+                },
+                "yearpublished": {
+                    "TEXT": "2015"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__original/img/Myy6IPDJDzLoPdXrPXVZcddBQoQ=/0x0/filters:format(jpeg)/pic2439223.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__thumb/img/NLhVdU8xazrgS5dA6nVCYmN2DNI=/fit-in/200x150/filters:strip_icc()/pic2439223.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "4",
+                    "minplaytime": "60",
+                    "maxplaytime": "90",
+                    "playingtime": "90",
+                    "numowned": "49282",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "41231"
+                        },
+                        "average": {
+                            "value": "7.96968"
+                        },
+                        "bayesaverage": {
+                            "value": "7.79655"
+                        },
+                        "stddev": {
+                            "value": "1.41263"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-20 14:02:46"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "275913",
+                "subtype": "boardgame",
+                "collid": "92852932",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Bruxelles 1897"
+                },
+                "yearpublished": {
+                    "TEXT": "2019"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/epYZrJ9M2vTl6ITcl28eQg__original/img/nmNX-gMBA0bL0VgXQOrucQF56tQ=/0x0/filters:format(jpeg)/pic4830437.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/epYZrJ9M2vTl6ITcl28eQg__thumb/img/IX5iReRJ9qKz7NPG2QBiGa3M9nY=/fit-in/200x150/filters:strip_icc()/pic4830437.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "4",
+                    "minplaytime": "40",
+                    "maxplaytime": "60",
+                    "playingtime": "60",
+                    "numowned": "3513",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "1582"
+                        },
+                        "average": {
+                            "value": "7.2635"
+                        },
+                        "bayesaverage": {
+                            "value": "6.28713"
+                        },
+                        "stddev": {
+                            "value": "1.20237"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-04-05 23:11:19"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "266507",
+                "subtype": "boardgame",
+                "collid": "92852960",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Clank!: Legacy \u2013 Acquisitions Incorporated"
+                },
+                "yearpublished": {
+                    "TEXT": "2019"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__original/img/1Fpyz7j7rTvMPRiDdPjn0Vf0m2k=/0x0/filters:format(png)/pic4885780.png"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/hc2NDafu5c24iLJh_IZmyg__thumb/img/8TA1Gn7jERN4yhtXD-xBCGk-QfM=/fit-in/200x150/filters:strip_icc()/pic4885780.png"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "4",
+                    "minplaytime": "90",
+                    "maxplaytime": "120",
+                    "playingtime": "120",
+                    "numowned": "13189",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "6763"
+                        },
+                        "average": {
+                            "value": "8.62907"
+                        },
+                        "bayesaverage": {
+                            "value": "7.92484"
+                        },
+                        "stddev": {
+                            "value": "1.3831"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-04-05 23:12:33"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "316554",
+                "subtype": "boardgame",
+                "collid": "92479792",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Dune: Imperium"
+                },
+                "yearpublished": {
+                    "TEXT": "2020"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__original/img/mZzaBAEEJpMlHWWmC0R6Su0OibQ=/0x0/filters:format(jpeg)/pic5666597.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__thumb/img/JGgY-nBmkyB8WRp8vcoBLlNMQ5U=/fit-in/200x150/filters:strip_icc()/pic5666597.jpg"
+                },
+                "stats": {
+                    "minplayers": "1",
+                    "maxplayers": "4",
+                    "minplaytime": "60",
+                    "maxplaytime": "120",
+                    "playingtime": "120",
+                    "numowned": "37469",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "25941"
+                        },
+                        "average": {
+                            "value": "8.34479"
+                        },
+                        "bayesaverage": {
+                            "value": "8.08983"
+                        },
+                        "stddev": {
+                            "value": "1.25824"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "0",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "1",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-25 09:38:35"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "146021",
+                "subtype": "boardgame",
+                "collid": "92323478",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Eldritch Horror"
+                },
+                "yearpublished": {
+                    "TEXT": "2013"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__original/img/vxK08kQAEn5qPbejK2CUTyWOsig=/0x0/filters:format(jpeg)/pic1872452.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__thumb/img/I1oCwOcGxAOVx2VE2LcXuKWoLvY=/fit-in/200x150/filters:strip_icc()/pic1872452.jpg"
+                },
+                "stats": {
+                    "minplayers": "1",
+                    "maxplayers": "8",
+                    "minplaytime": "120",
+                    "maxplaytime": "240",
+                    "playingtime": "240",
+                    "numowned": "49610",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "33356"
+                        },
+                        "average": {
+                            "value": "7.76739"
+                        },
+                        "bayesaverage": {
+                            "value": "7.5325"
+                        },
+                        "stddev": {
+                            "value": "1.53063"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-20 14:00:08"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "7805",
+                "subtype": "boardgame",
+                "collid": "92323545",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Fearsome Floors"
+                },
+                "yearpublished": {
+                    "TEXT": "2003"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/GFIDR8JqZletddix8obk5A__original/img/zoVIfr9yOcpaVob1NhCur64dYBY=/0x0/filters:format(jpeg)/pic163508.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/GFIDR8JqZletddix8obk5A__thumb/img/lfFTfqCvwl8i06H_r49ye_D3Pxo=/fit-in/200x150/filters:strip_icc()/pic163508.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "7",
+                    "minplaytime": "60",
+                    "maxplaytime": "60",
+                    "playingtime": "60",
+                    "numowned": "8777",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "7995"
+                        },
+                        "average": {
+                            "value": "6.67362"
+                        },
+                        "bayesaverage": {
+                            "value": "6.43585"
+                        },
+                        "stddev": {
+                            "value": "1.22911"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-20 14:02:20"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "291457",
+                "subtype": "boardgame",
+                "collid": "92479666",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Gloomhaven: Jaws of the Lion"
+                },
+                "yearpublished": {
+                    "TEXT": "2020"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__original/img/PBzsLRqNKQKJxGnzpb7o3qLWPQM=/0x0/filters:format(jpeg)/pic5055631.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/_HhIdavYW-hid20Iq3hhmg__thumb/img/OMkN_E5eyWrkID_cHCnQEbIixGM=/fit-in/200x150/filters:strip_icc()/pic5055631.jpg"
+                },
+                "stats": {
+                    "minplayers": "1",
+                    "maxplayers": "4",
+                    "minplaytime": "30",
+                    "maxplaytime": "120",
+                    "playingtime": "120",
+                    "numowned": "53984",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "23399"
+                        },
+                        "average": {
+                            "value": "8.573"
+                        },
+                        "bayesaverage": {
+                            "value": "8.24634"
+                        },
+                        "stddev": {
+                            "value": "1.44409"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "0",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "1",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-25 09:34:38"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "110327",
+                "subtype": "boardgame",
+                "collid": "92852952",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Lords of Waterdeep"
+                },
+                "yearpublished": {
+                    "TEXT": "2012"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/-hk8f8iGk_DyWyMrfiPBkg__original/img/GWNOhno3y7g0XE00VacKaRxoczk=/0x0/filters:format(jpeg)/pic1116080.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/-hk8f8iGk_DyWyMrfiPBkg__thumb/img/dBqYOO8uLXAumxUGuYtuiRGQ1Y8=/fit-in/200x150/filters:strip_icc()/pic1116080.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "5",
+                    "minplaytime": "60",
+                    "maxplaytime": "120",
+                    "playingtime": "120",
+                    "numowned": "63566",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "51245"
+                        },
+                        "average": {
+                            "value": "7.7439"
+                        },
+                        "bayesaverage": {
+                            "value": "7.60904"
+                        },
+                        "stddev": {
+                            "value": "1.26883"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-04-05 23:12:06"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "312484",
+                "subtype": "boardgame",
+                "collid": "92323668",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Lost Ruins of Arnak"
+                },
+                "yearpublished": {
+                    "TEXT": "2020"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__original/img/CXqwimJPonWy1oyXEMgPN_ZVmUI=/0x0/filters:format(jpeg)/pic5674958.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__thumb/img/J8SVmGOJXZGxNjkT3xYNQU7Haxg=/fit-in/200x150/filters:strip_icc()/pic5674958.jpg"
+                },
+                "stats": {
+                    "minplayers": "1",
+                    "maxplayers": "4",
+                    "minplaytime": "30",
+                    "maxplaytime": "120",
+                    "playingtime": "120",
+                    "numowned": "42375",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "27943"
+                        },
+                        "average": {
+                            "value": "8.09212"
+                        },
+                        "bayesaverage": {
+                            "value": "7.87646"
+                        },
+                        "stddev": {
+                            "value": "1.22188"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-20 14:05:20"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "205059",
+                "subtype": "boardgame",
+                "collid": "92323583",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Mansions of Madness: Second Edition"
+                },
+                "yearpublished": {
+                    "TEXT": "2016"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__original/img/Go6c8-ZiXomS8E7X4MBCdDd-aZc=/0x0/filters:format(jpeg)/pic3118622.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/LIooA9bTdjnE9qmhjL-UFw__thumb/img/kwaa7aI2sMeyWV5JSRKcKrS5hC8=/fit-in/200x150/filters:strip_icc()/pic3118622.jpg"
+                },
+                "stats": {
+                    "minplayers": "1",
+                    "maxplayers": "5",
+                    "minplaytime": "120",
+                    "maxplaytime": "180",
+                    "playingtime": "180",
+                    "numowned": "49319",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "31427"
+                        },
+                        "average": {
+                            "value": "7.99292"
+                        },
+                        "bayesaverage": {
+                            "value": "7.75627"
+                        },
+                        "stddev": {
+                            "value": "1.49176"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "0",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "1",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-20 14:03:05"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "244608",
+                "subtype": "boardgame",
+                "collid": "92437131",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Menara"
+                },
+                "yearpublished": {
+                    "TEXT": "2018"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/qRwLtZZDhIT1wPD8qjCEUA__original/img/DWcprkKsOtSABH4zfsuD_LI26G0=/0x0/filters:format(jpeg)/pic3944407.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/qRwLtZZDhIT1wPD8qjCEUA__thumb/img/M7GGgc8cAX5AiTfdC8U4AieR6VQ=/fit-in/200x150/filters:strip_icc()/pic3944407.jpg"
+                },
+                "stats": {
+                    "minplayers": "1",
+                    "maxplayers": "4",
+                    "minplaytime": "10",
+                    "maxplaytime": "60",
+                    "playingtime": "60",
+                    "numowned": "5257",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "3015"
+                        },
+                        "average": {
+                            "value": "7.46049"
+                        },
+                        "bayesaverage": {
+                            "value": "6.70898"
+                        },
+                        "stddev": {
+                            "value": "1.15535"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "0",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "1",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-23 22:44:24"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "195421",
+                "subtype": "boardgame",
+                "collid": "92323509",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Near and Far"
+                },
+                "yearpublished": {
+                    "TEXT": "2017"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/lm8OOgJupqd3Q-fZ3DsQhw__original/img/hTV2P_-UPntaLbQB3Dl17LYz42A=/0x0/filters:format(jpeg)/pic3605785.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/lm8OOgJupqd3Q-fZ3DsQhw__thumb/img/mZV5Pve42U5PlK-GkFSDTDXCzdg=/fit-in/200x150/filters:strip_icc()/pic3605785.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "4",
+                    "minplaytime": "90",
+                    "maxplaytime": "120",
+                    "playingtime": "120",
+                    "numowned": "19518",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "9230"
+                        },
+                        "average": {
+                            "value": "7.73084"
+                        },
+                        "bayesaverage": {
+                            "value": "7.32696"
+                        },
+                        "stddev": {
+                            "value": "1.32347"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-20 14:01:09"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "167355",
+                "subtype": "boardgame",
+                "collid": "92479805",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Nemesis"
+                },
+                "yearpublished": {
+                    "TEXT": "2018"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/tAqLpWxQ0Oo3GaPP3MER1g__original/img/sA6r1p6BO_Tgyc3-xgIESC9Y-vg=/0x0/filters:format(jpeg)/pic5073276.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/tAqLpWxQ0Oo3GaPP3MER1g__thumb/img/sMIg7_b5ekS1xm6cBIoMFpH0MZs=/fit-in/200x150/filters:strip_icc()/pic5073276.jpg"
+                },
+                "stats": {
+                    "minplayers": "1",
+                    "maxplayers": "5",
+                    "minplaytime": "90",
+                    "maxplaytime": "180",
+                    "playingtime": "180",
+                    "numowned": "32540",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "22583"
+                        },
+                        "average": {
+                            "value": "8.33653"
+                        },
+                        "bayesaverage": {
+                            "value": "7.97828"
+                        },
+                        "stddev": {
+                            "value": "1.50656"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "0",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "1",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-25 09:39:02"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "314040",
+                "subtype": "boardgame",
+                "collid": "92479723",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Pandemic Legacy: Season 0"
+                },
+                "yearpublished": {
+                    "TEXT": "2020"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/y0x1zbkpUXjddzWWnhekYw__original/img/2VlfzwT4b8f1s2HqbilcjR-bM3I=/0x0/filters:format(jpeg)/pic5581457.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/y0x1zbkpUXjddzWWnhekYw__thumb/img/hj0jDCs-hKfkgqG-oOWu-kM-I6E=/fit-in/200x150/filters:strip_icc()/pic5581457.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "4",
+                    "minplaytime": "45",
+                    "maxplaytime": "60",
+                    "playingtime": "60",
+                    "numowned": "12402",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "5226"
+                        },
+                        "average": {
+                            "value": "8.51091"
+                        },
+                        "bayesaverage": {
+                            "value": "7.69783"
+                        },
+                        "stddev": {
+                            "value": "1.52328"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "0",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "1",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-25 09:36:27"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "161936",
+                "subtype": "boardgame",
+                "collid": "92479682",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Pandemic Legacy: Season 1"
+                },
+                "yearpublished": {
+                    "TEXT": "2015"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__original/img/PlzAH7swN1nsFxOXbfUvE3TkE5w=/0x0/filters:format(png)/pic2452831.png"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/-Qer2BBPG7qGGDu6KcVDIw__thumb/img/NQQcjS31TO0DE246N9rpt0hd9eo=/fit-in/200x150/filters:strip_icc()/pic2452831.png"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "4",
+                    "minplaytime": "60",
+                    "maxplaytime": "60",
+                    "playingtime": "60",
+                    "numowned": "75101",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "48061"
+                        },
+                        "average": {
+                            "value": "8.56881"
+                        },
+                        "bayesaverage": {
+                            "value": "8.41708"
+                        },
+                        "stddev": {
+                            "value": "1.56725"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "0",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "1",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-25 09:35:06"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "221107",
+                "subtype": "boardgame",
+                "collid": "92479697",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Pandemic Legacy: Season 2"
+                },
+                "yearpublished": {
+                    "TEXT": "2017"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__original/img/wJiRr7lBmWSKcRS3lPpvKIPMgQQ=/0x0/filters:format(jpeg)/pic3763549.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/Qtkb-UTvHa0-kxt_MK1nKw__thumb/img/MfKsnJUTx9IQV-o12Fahxx5IaDQ=/fit-in/200x150/filters:strip_icc()/pic3763549.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "4",
+                    "minplaytime": "60",
+                    "maxplaytime": "60",
+                    "playingtime": "60",
+                    "numowned": "28778",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "14897"
+                        },
+                        "average": {
+                            "value": "8.07148"
+                        },
+                        "bayesaverage": {
+                            "value": "7.75548"
+                        },
+                        "stddev": {
+                            "value": "1.69157"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "0",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "1",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-25 09:35:36"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "264220",
+                "subtype": "boardgame",
+                "collid": "92323680",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Tainted Grail: The Fall of Avalon"
+                },
+                "yearpublished": {
+                    "TEXT": "2019"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/aAwBzPzta4joKfFZt05hCw__original/img/e1HfD3XIvObNuGH6rq7kUSK-5aQ=/0x0/filters:format(jpeg)/pic4385726.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/aAwBzPzta4joKfFZt05hCw__thumb/img/zvV21ZaydrMSEbbYSNXcmw3WmfY=/fit-in/200x150/filters:strip_icc()/pic4385726.jpg"
+                },
+                "stats": {
+                    "minplayers": "1",
+                    "maxplayers": "4",
+                    "minplaytime": "60",
+                    "maxplaytime": "120",
+                    "playingtime": "120",
+                    "numowned": "20165",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "9922"
+                        },
+                        "average": {
+                            "value": "8.18294"
+                        },
+                        "bayesaverage": {
+                            "value": "7.58719"
+                        },
+                        "stddev": {
+                            "value": "1.80816"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "0",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "1",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-20 14:05:48"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "229853",
+                "subtype": "boardgame",
+                "collid": "92324655",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Teotihuacan: City of Gods"
+                },
+                "yearpublished": {
+                    "TEXT": "2018"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__original/img/72kzn6t41ZxLEr3GFd8ir6hDdH4=/0x0/filters:format(jpeg)/pic4583626.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__thumb/img/MppmP7GtDAfKiB5LiAl-ZtPxOPE=/fit-in/200x150/filters:strip_icc()/pic4583626.jpg"
+                },
+                "stats": {
+                    "minplayers": "1",
+                    "maxplayers": "4",
+                    "minplaytime": "90",
+                    "maxplaytime": "120",
+                    "playingtime": "120",
+                    "numowned": "23138",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "17013"
+                        },
+                        "average": {
+                            "value": "7.89842"
+                        },
+                        "bayesaverage": {
+                            "value": "7.62505"
+                        },
+                        "stddev": {
+                            "value": "1.29238"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-20 14:42:40"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "126163",
+                "subtype": "boardgame",
+                "collid": "92324638",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Tzolk'in: The Mayan Calendar"
+                },
+                "yearpublished": {
+                    "TEXT": "2012"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__original/img/f6-Au0KTnNR4nugSu2U-wPNbZCU=/0x0/filters:format(jpeg)/pic4604439.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__thumb/img/or9mAn4ClljY_wO_zvsLJDqs9tU=/fit-in/200x150/filters:strip_icc()/pic4604439.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "4",
+                    "minplaytime": "90",
+                    "maxplaytime": "90",
+                    "playingtime": "90",
+                    "numowned": "41593",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "35544"
+                        },
+                        "average": {
+                            "value": "7.88071"
+                        },
+                        "bayesaverage": {
+                            "value": "7.72934"
+                        },
+                        "stddev": {
+                            "value": "1.26213"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2022-03-20 14:42:20"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,366 @@
+{
+    "items": {
+        "totalitems": "6",
+        "termsofuse": "https://boardgamegeek.com/xmlapi/termsofuse",
+        "pubdate": "Sat, 05 Nov 2022 00:22:14 +0000",
+        "item": [
+            {
+                "objecttype": "thing",
+                "objectid": "172225",
+                "subtype": "boardgame",
+                "collid": "42221928",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Exploding Kittens"
+                },
+                "yearpublished": {
+                    "TEXT": "2015"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__original/img/0ciN1VZYifUd0qIDO0e8cGXmiss=/0x0/filters:format(png)/pic2691976.png"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__thumb/img/3tH4pIc1Udzkd0tXc6MgVQ59BC0=/fit-in/200x150/filters:strip_icc()/pic2691976.png"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "5",
+                    "minplaytime": "15",
+                    "maxplaytime": "15",
+                    "playingtime": "15",
+                    "numowned": "58668",
+                    "rating": {
+                        "value": "7",
+                        "usersrated": {
+                            "value": "28036"
+                        },
+                        "average": {
+                            "value": "6.04605"
+                        },
+                        "bayesaverage": {
+                            "value": "5.86221"
+                        },
+                        "stddev": {
+                            "value": "1.77528"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2017-04-30 07:47:28"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "66254",
+                "subtype": "boardgame",
+                "collid": "36052325",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Good Cat Bad Cat"
+                },
+                "yearpublished": {
+                    "TEXT": "2010"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/9s8TQ1TOtbVplHgOMgifoA__original/img/i6dmOZS6Rt2mDp7lM-Qbp-L_ido=/0x0/filters:format(jpeg)/pic660019.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/9s8TQ1TOtbVplHgOMgifoA__thumb/img/2ihaSQ9N-R9wSXoDU4KVYJ-ahN0=/fit-in/200x150/filters:strip_icc()/pic660019.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "6",
+                    "minplaytime": "60",
+                    "maxplaytime": "60",
+                    "playingtime": "60",
+                    "numowned": "50",
+                    "rating": {
+                        "value": "N/A",
+                        "usersrated": {
+                            "value": "23"
+                        },
+                        "average": {
+                            "value": "6.07826"
+                        },
+                        "bayesaverage": {
+                            "value": "0"
+                        },
+                        "stddev": {
+                            "value": "1.82255"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "0",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2016-08-04 12:41:35"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "219574",
+                "subtype": "boardgame",
+                "collid": "42221820",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Guerras Gato"
+                },
+                "yearpublished": {
+                    "TEXT": "2016"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/e663h7tnLPe89TFFRRqqzA__original/img/f807WsQKbFeZhX2MHRlVmOFCz9Y=/0x0/filters:format(jpeg)/pic3447779.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/e663h7tnLPe89TFFRRqqzA__thumb/img/YQtaxVG2S7AXGvpDovIABBhAYr0=/fit-in/200x150/filters:strip_icc()/pic3447779.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "5",
+                    "minplaytime": "20",
+                    "maxplaytime": "60",
+                    "playingtime": "60",
+                    "numowned": "37",
+                    "rating": {
+                        "value": "4",
+                        "usersrated": {
+                            "value": "14"
+                        },
+                        "average": {
+                            "value": "4.46429"
+                        },
+                        "bayesaverage": {
+                            "value": "0"
+                        },
+                        "stddev": {
+                            "value": "2.15857"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2017-04-30 07:39:30"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                },
+                "comment": {
+                    "TEXT": "No so nice."
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "154499",
+                "subtype": "boardgame",
+                "collid": "42221945",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Hot Tin Roof"
+                },
+                "yearpublished": {
+                    "TEXT": "2014"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/-UbLTAIup3m2T2IjahM_UA__original/img/x-gLhhtH5J6nmpONpOp-obZSpOk=/0x0/filters:format(jpeg)/pic1919260.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/-UbLTAIup3m2T2IjahM_UA__thumb/img/tifSl0cKu78LselQM8HZCS-06VI=/fit-in/200x150/filters:strip_icc()/pic1919260.jpg"
+                },
+                "stats": {
+                    "minplayers": "3",
+                    "maxplayers": "4",
+                    "minplaytime": "30",
+                    "maxplaytime": "60",
+                    "playingtime": "60",
+                    "numowned": "559",
+                    "rating": {
+                        "value": "9",
+                        "usersrated": {
+                            "value": "269"
+                        },
+                        "average": {
+                            "value": "6.07744"
+                        },
+                        "bayesaverage": {
+                            "value": "5.56715"
+                        },
+                        "stddev": {
+                            "value": "1.43168"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2017-04-30 07:48:09"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "115105",
+                "subtype": "boardgame",
+                "collid": "42221854",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Kittens in a Blender"
+                },
+                "yearpublished": {
+                    "TEXT": "2011"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/5QfP5LB0AJWBQGVrdl-wXw__original/img/XeIy3Oj2N8Rts0gW3ipPcCBtkbE=/0x0/filters:format(jpeg)/pic1178777.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/5QfP5LB0AJWBQGVrdl-wXw__thumb/img/clDMoG_kDfkMtTKHkppD8Tuy2B0=/fit-in/200x150/filters:strip_icc()/pic1178777.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "4",
+                    "minplaytime": "20",
+                    "maxplaytime": "40",
+                    "playingtime": "40",
+                    "numowned": "4968",
+                    "rating": {
+                        "value": "10",
+                        "usersrated": {
+                            "value": "2133"
+                        },
+                        "average": {
+                            "value": "5.68077"
+                        },
+                        "bayesaverage": {
+                            "value": "5.54913"
+                        },
+                        "stddev": {
+                            "value": "1.63458"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2017-04-30 07:42:09"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            },
+            {
+                "objecttype": "thing",
+                "objectid": "3837",
+                "subtype": "boardgame",
+                "collid": "42221981",
+                "name": {
+                    "sortindex": "1",
+                    "TEXT": "Rat-a-Tat Cat"
+                },
+                "yearpublished": {
+                    "TEXT": "1995"
+                },
+                "image": {
+                    "TEXT": "https://cf.geekdo-images.com/4nQQ9GA-1JXcxwNd-tCR8w__original/img/7R-X8iE7upfWh5LLmFKtqkxuXqI=/0x0/filters:format(jpeg)/pic147435.jpg"
+                },
+                "thumbnail": {
+                    "TEXT": "https://cf.geekdo-images.com/4nQQ9GA-1JXcxwNd-tCR8w__thumb/img/YUEFmGQnDkD4I2GdLgeZAZjflVI=/fit-in/200x150/filters:strip_icc()/pic147435.jpg"
+                },
+                "stats": {
+                    "minplayers": "2",
+                    "maxplayers": "6",
+                    "minplaytime": "10",
+                    "maxplaytime": "10",
+                    "playingtime": "10",
+                    "numowned": "7050",
+                    "rating": {
+                        "value": "9",
+                        "usersrated": {
+                            "value": "3309"
+                        },
+                        "average": {
+                            "value": "6.22361"
+                        },
+                        "bayesaverage": {
+                            "value": "5.91817"
+                        },
+                        "stddev": {
+                            "value": "1.40085"
+                        },
+                        "median": {
+                            "value": "0"
+                        }
+                    }
+                },
+                "status": {
+                    "own": "1",
+                    "prevowned": "0",
+                    "fortrade": "0",
+                    "want": "0",
+                    "wanttoplay": "0",
+                    "wanttobuy": "0",
+                    "wishlist": "0",
+                    "preordered": "0",
+                    "lastmodified": "2017-04-30 07:50:43"
+                },
+                "numplays": {
+                    "TEXT": "0"
+                }
+            }
+        ]
+    }
+}
